@@ -6,7 +6,7 @@
 --- 
 Date: 16.06.2022 - 12:52
 Status: #idee 
-Tags: #publish
+Tags: #blog
 
 ---
 # Untitled 1
