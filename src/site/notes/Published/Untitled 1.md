@@ -3,21 +3,10 @@
 ---
 
 
---- 
-Date: 16.06.2022 - 12:52
-Status: #idee 
-Tags: #blog
+# Veit's Digital Garden
+This is my digital graden for everything that I want to publish, it is similar to a blog but unstuctured. 
 
----
-# Untitled 1
-
-nnn 
-
-test
-
-test 123
+## Articels
 
 [[Published/Untitled|Untitled]]
 
----
-# Reference
